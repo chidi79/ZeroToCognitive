@@ -3,8 +3,8 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: Z2C-chidi
-  host: Z2C-chidi
+  name: Z2C-chidi-chap04
+  host: Z2C-chidi-chap04
   disk_quota: 1024M
   services:
     - Text to Speech-qc
